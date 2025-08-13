@@ -1,15 +1,15 @@
 # Hi there, I'm Mohan 👋
 
-🚀 **Frontend-focused Full-Stack Developer** with **5+ years** of experience in building modern, responsive, and scalable web applications.  
+🚀 **Frontend-focused Full-Stack Developer** with **6+ years** of experience in building modern, responsive, and scalable web applications.  
 I specialize in **React.js, JavaScript, TypeScript, Redux, HTML5, CSS3**, and also have **1+ years** in backend development with **Node.js, Express.js, MongoDB**.
 
 ---
 
 ### 🛠 Tech Stack
-- **Frontend:** React.js, Redux, JavaScript (ES6+), TypeScript, HTML5, CSS3, Bootstrap
+- **Frontend:** React.js, Redux, JavaScript (ES6+), TypeScript, HTML5, CSS3, Bootstrap, Material-ui, Mui 6
 - **Backend:** Node.js, Express.js, MongoDB
-- **Tools & Build:** Webpack, Git, NPM, Yarn
-- **Testing:** Jest, React Testing Library, BDD with Gherkin
+- **Tools & Build:** Webpack, Git, NPM
+- **Testing:** Jest, Enzyme, React Testing Library, BDD with Gherkin
 - **Other Skills:** Responsive Web Design, API Integration, Performance Optimization
 
 ---
