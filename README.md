@@ -30,8 +30,8 @@ I specialize in **React.js, JavaScript, TypeScript, Redux, HTML5, CSS3**, and al
 
 ### 📫 Let's Connect
 - **Portfolio:** [mohanpatil-dev.github.io](https://mohanpatil-dev.github.io)
-- **LinkedIn:** [linkedin.com/in/mohan-patil](https://linkedin.com/in/mohan-patil)
-- **Email:** `youremail@example.com`
+- **LinkedIn:** [[linkedin.com/in/mohan-patil](https://www.linkedin.com/in/mohan-patil-183b2210a)
+- **Email:** `mohanpatil2601@gmail.com`
 
 ---
 
